@@ -1,7 +1,59 @@
-# LeetCode Warm Up for (Almost) Every Working Day
+# LeetCode Warm Up for (Almost) Every Quant Prep Day
 
 This is a repository tracking my LeetCode progress, targeting the following algorithms with complexity analyses. 
 
+**Tier 1: Core Fundamentals & Highest ROI for Quant Risk**
+| Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
+|--- |--- |--- |--- |
+| 1 | Array & Two Pointers | 2,451 | Basic data handling, memory locality, and two-pass array contractions |
+| 2 | Dynamic Programming & Memoization | 709 | Essential for recursive optimisation, Markov chains, and option-pricing models. |
+| 3 | Binary Search & Divide and Conquer | 410 | Crucial for continuous/discrete decision spaces and root-finding. |
+| 4 | Hash Table & Hash Function | 868 | Fast $O(1)$ lookups, state mapping, and frequency aggregation. |
+| 5 | Math, Number Theory & Combinatorics | 845 | Direct evaluation of modular arithmetic, prime factorisations, and permutations. |
+| 6 | Sliding Window & Prefix Sum | 432 | Subarray tracking and $O(1)$ range-sum/aggregate queries. |
+| 7 | Heap (Priority Queue) & Monotonic Queue | 244 | Real-time streaming metrics, top-$K$ tracking, and order-book logic. |
+| 8 | Monotonic Stack & Stack | 252 | Next Greater Element patterns and linear-time array parsing. |
+
+**Tier 2: Essential Advanced Patterns**
+| Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
+|--- |--- |--- |--- |
+| 9 | Bit Manipulation & Bitmask | 343 | Low-level hardware efficiency, state packing, and fast binary arithmetic. |
+| 10 | Matrix & Simulation | 488 | 2D spatial transformations, linear algebra grids, and procedural tracking. |
+| 11 | Sorting, Merge Sort & Quickselect | 550 | $O(N log N)$ invariants, median finding and order statistics. |
+| 12 | Depth-First Search (DFS) & Backtracking | 458 | Combinatorial state-space search and tree exploration. |
+| 13 | Probability and Statistics & Brainteaser | 28 | Pure quant logic, expectation calculations, and stochastic riddles. |
+| 14 | Breadth-First Search (BFS) & Shortest Path | 300 | Grid traversals, minimal transition sequences, and graph states. |
+| 15 | Recursion | 51 | Master-theorem mechanics and call-stack trace analysis. |
+
+**Tier 3: Specialised & Selective Coverage**
+| Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
+|--- |--- |--- |--- |
+| 16 | Binary Tree & Binary Search Tree | 223 | Hierarchical data representation and balanced search tree mechanics. |
+| 17 | Greedy | 470 | Local optimisation proofs (note: prioritise DP over pure Greedy heuristics). |
+| 18 | Graph Theory & Union-Find | 286 | Connected components and relationship dependency modeling. |
+| 19 | String, String Matching & Rolling Hash | 950 | Parsing and substring matching (stick strictly to fundamental string manipulation). |
+| 20 | Design, Data Stream & Iterator | 169 | In-memory cache structures (LRU/LFU) and stream processing interfaces. |
+| 21 | Topological Sort | 40 | Dependency resolution and Directed Acyclic Graph (DAG) ordering. |
+| 22 | Game Theory | 30 | Minimax optimisation and game-state analysis (e.g., Nim game variants). |
+| 23 | Counting & Counting Sort / Radix Sort | 221 | Non-comparison $O(N)$ sorting and bucketed distributions. |
+| 24 | Linked List & Doubly-Linked List | 97 | Pointer manipulation and memory allocation fundamentals. |
+| 25 | Geometry | 46 | Spatial calculations, convex hulls, and coordinate geometry. |
+
+**Tier 4: Niche Topics**
+| Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
+|--- |--- |--- |--- |
+| 26 | Advanced Tree Data Structures (Segment Tree, Binary Indexed Tree, Trie, Suffix Array | 80+44+61+8 |--- |
+| 27 | Advanced Graph Theory (Minimum Spanning Tree, Eulerian Circuit, Strongly Connected Component, Biconnected Component | 6+3+2+1 |--- |
+| 28 | Randomisation & Sampling (Randomised, Reservoir Sampling, Rejection Sampling | 12+4+2 |--- |
+| 29 | Advanced / Niche Maths & Algorithms (Ordered Set, Sweep Line, Interactive, Enumeration, Bucket Sort, Shell | 79+8+25+153+6+4 |--- |
+
+**Tier 5: Bonus Topics**
+| Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
+|--- |--- |--- |--- |
+| 30 | Database | 310 |--- |
+| 31 | Concurrency | 9 |--- |
+
+<!--
 - [] Arrays
 - [] Two Pointers
 - [] Sliding Window
@@ -26,7 +78,6 @@ This is a repository tracking my LeetCode progress, targeting the following algo
 - [] Timing Constraints
 - [] In-memory Optimisation
 
-<!--
 Array
 2197
 String
