@@ -32,6 +32,7 @@ This is a repository tracking my LeetCode progress, targeting the following algo
 - **Environment:** headless Ubuntu LTS Virtual Machine via SSH
 - **Workspace:** multiplexed via `tmux`
 - **Version Control:** verified Git pipeline via custom SSH handshakes
+- **Editor/IDE:** Vim
 
 ## Progress Summary
 
