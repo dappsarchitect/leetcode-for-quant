@@ -1,4 +1,4 @@
-# LeetCode Warm Up for (Almost) Every Quant Prep Day
+# LeetCode Warm Up on (Almost) Every Quant Prep Day
 
 This is a repository tracking my LeetCode progress, targeting the following algorithms with complexity analyses. 
 
@@ -42,10 +42,10 @@ This is a repository tracking my LeetCode progress, targeting the following algo
 **Tier 4: Niche Topics**
 | Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
 |--- |--- |--- |--- |
-| 26 | Advanced Tree Data Structures (Segment Tree, Binary Indexed Tree, Trie, Suffix Array | 80+44+61+8 |--- |
-| 27 | Advanced Graph Theory (Minimum Spanning Tree, Eulerian Circuit, Strongly Connected Component, Biconnected Component | 6+3+2+1 |--- |
-| 28 | Randomisation & Sampling (Randomised, Reservoir Sampling, Rejection Sampling | 12+4+2 |--- |
-| 29 | Advanced / Niche Maths & Algorithms (Ordered Set, Sweep Line, Interactive, Enumeration, Bucket Sort, Shell | 79+8+25+153+6+4 |--- |
+| 26 | Advanced Tree Data Structures (Segment Tree, Binary Indexed Tree, Trie, Suffix Array) | 80+44+61+8 = 193 |--- |
+| 27 | Advanced Graph Theory (Minimum Spanning Tree, Eulerian Circuit, Strongly Connected Component, Biconnected Component) | 6+3+2+1 = 12 |--- |
+| 28 | Randomisation & Sampling (Randomised, Reservoir Sampling, Rejection Sampling) | 12+4+2 = 18 |--- |
+| 29 | Advanced / Niche Maths & Algorithms (Ordered Set, Sweep Line, Interactive, Enumeration, Bucket Sort, Shell) | 79+8+25+153+6+4 = 196 |--- |
 
 **Tier 5: Bonus Topics**
 | Rank | Algorithms | Total No. on LeetCode | Why It Matters for Quants|
