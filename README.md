@@ -28,7 +28,7 @@ This is a repository tracking my LeetCode progress, targeting the following algo
 
 ## Environment Setup
 
-- **Host Engine:** VAIO laptop
+- **Host Engine:** VAIO laptop with Polar PGK-114 mechanical keyboard
 - **Environment:** headless Ubuntu LTS Virtual Machine via SSH
 - **Workspace:** multiplexed via `tmux`
 - **Version Control:** verified Git pipeline via custom SSH handshakes
